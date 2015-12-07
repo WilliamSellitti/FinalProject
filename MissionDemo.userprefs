@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\SpaceShmup\Assets\_Scripts\Util.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SlingShot.cs" Line="76" Column="23" />
+      <File FileName="Assets\Scripts\MissionDemolition.cs" Line="1" Column="1" />
+      <File FileName="..\SpaceShmup\Assets\_Scripts\Util.cs" Line="16" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
